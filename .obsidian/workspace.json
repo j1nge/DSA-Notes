@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a75a8d2c2329918",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -149,11 +157,12 @@
   },
   "active": "35ab47a3c6d06b9d",
   "lastOpenFiles": [
+    "Lessons/Structure of Thinking Process.md",
+    "Process.md",
     "Attachments/Pasted image 20240602152546.png",
+    "README.md",
     "Attachments",
     "Untitled.md",
-    "Lessons/Structure of Thinking Process.md",
-    "Lessons",
-    "README.md"
+    "Lessons"
   ]
 }

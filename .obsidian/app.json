@@ -1,3 +1,5 @@
 {
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "autoPairMarkdown": false,
+  "showIndentGuide": false
 }
